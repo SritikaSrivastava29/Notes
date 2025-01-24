@@ -2,6 +2,9 @@
 
 ### Organ and Organ System in Frogs  
 
+![image](https://github.com/user-attachments/assets/ad618533-58b5-491f-b6b0-6b5c303cdd12)
+
+
 - **Frogs**:  
   Frogs are amphibians, meaning they can live both on land and in water. They have well-developed organ systems that support their dual lifestyle. Key features include a three-chambered heart, lungs for breathing air, and skin that assists in respiration.
 
@@ -87,6 +90,8 @@
 
   ### Male Reproductive System of Frogs  
 
+![image](https://github.com/user-attachments/assets/d9a19fc5-861f-43cf-ba1b-2dde4b3771cd)
+
 - **Vasa Efferentia**:  
   Thin ducts that transport sperm from the testes to the kidneys for eventual passage through the urinogenital duct.  
 
@@ -119,6 +124,9 @@
 
 
 ### Female Reproductive System of Frogs  
+
+![image](https://github.com/user-attachments/assets/886c7fbc-c3c9-495f-a71b-dbbf44bdf732)
+
 
 - **Oviduct**:  
   Paired, coiled tubes that transport eggs from the ovaries to the cloaca for external fertilization.  
