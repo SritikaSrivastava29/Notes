@@ -54,3 +54,26 @@ Meiosis I consists of the following phases:
 - **Sexual Reproduction**: Meiosis is crucial for sexual reproduction, as it generates genetically diverse offspring, which enhances survival and adaptation.
 
 This explanation uses the same terminology and structure found in NCERT textbooks, especially for Class 11 Biology.
+### **Metaphase I**
+In **Metaphase I**, the **bivalents** (paired homologous chromosomes) align along the **equatorial plane** (center) of the cell. The spindle fibers attach to the **centromeres** of the homologous chromosomes. This alignment ensures that during the next phase (Anaphase I), each homologous chromosome will be pulled to opposite poles of the cell.
+
+### **Meiosis II**
+Meiosis II is similar to mitosis, but it involves the division of haploid cells formed after Meiosis I. There is no DNA replication in Meiosis II. It results in the formation of four genetically different haploid cells.
+
+#### **Prophase II**
+In **Prophase II**, the chromosomes condense once again. The **nuclear envelope** dissolves, and **spindle fibers** begin to form in each of the haploid cells. Each cell now contains half the number of chromosomes as the original cell.
+
+#### **Metaphase II**
+During **Metaphase II**, the chromosomes align along the **equatorial plane** of each haploid cell. Spindle fibers attach to the **centromeres** of each chromosome. The chromosomes are now ready to be separated into two chromatids in the next stage.
+
+#### **Anaphase II**
+In **Anaphase II**, the **sister chromatids** of each chromosome are pulled toward opposite poles of the cell by the spindle fibers. This ensures that each daughter cell will receive one chromatid from each chromosome.
+
+#### **Telophase II**
+In **Telophase II**, the chromatids reach the poles, and the **nuclear envelope** reforms around each set of chromosomes. The **cytoplasm divides**, and the cell undergoes **cytokinesis**, resulting in four haploid daughter cells. These cells are genetically different from each other and the parent cell.
+
+### **Summary of Meiosis II**
+- Meiosis II ensures that the **sister chromatids** are separated, resulting in four genetically distinct **haploid** cells.
+- This division helps in maintaining **genetic variation** through processes like **crossing over** and **independent assortment** during Meiosis I.
+
+This explanation provides a balanced level of detail suitable for notes, following the language and style of the **NCERT** Biology textbook.
